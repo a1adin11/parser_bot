@@ -1,0 +1,28 @@
+{
+  "name": "parser-bot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon 'goods.json' --ignore  index.js",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.13.1",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.10",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0",
+    "vite": "npm:rolldown-vite@7.1.14"
+  },
+  "resolutions": {
+    "vite": "npm:rolldown-vite@7.1.14"
+  }
+}

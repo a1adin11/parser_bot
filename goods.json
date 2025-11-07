@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Видеокарта GeForce RTX 5070 12G SHADOW 3X",
+    "brand": "MSI",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 15332000
+  },
+  {
+    "name": "GeForce RTX 5070 GAMING OC 12GB GDDR7 Видеокарта",
+    "brand": "Gigabyte",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 8483000
+  },
+  {
+    "name": "Видеокарта iGame GeForce RTX 5070 Ultra W OC 12GB-V",
+    "brand": "Colorful",
+    "seller": "Colorful",
+    "rating": 5,
+    "price": 9292300
+  },
+  {
+    "name": "GeForce RTX 5070 EAGLE OC SFF 12GB GDDR7 Видеокарта",
+    "brand": "Gigabyte",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 8105000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 12G VENTUS 2X, 12 ГБ GDDR7",
+    "brand": "MSI",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 15226000
+  },
+  {
+    "name": "Видеокарта RTX 5070 WINDFORCE SFF 12G, 12 Гб GDDR7 UltraHD",
+    "brand": "Gigabyte",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 16026000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0LZ0-M0NA00)",
+    "brand": "Asus",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 8887900
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G SHADOW 2X OC)",
+    "brand": "MSI",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 7254700
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 12G VENTUS 2X OC",
+    "brand": "MSI",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 15156000
+  },
+  {
+    "name": "Видеокарта PCI-E 5.0 PA-RTX5070 GAMINGPRO-S OC NV RTX5070",
+    "brand": "Palit",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 7959000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 NB EX 12GB-V",
+    "brand": "Colorful",
+    "seller": "Colorful",
+    "rating": 5,
+    "price": 8711600
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 EAGLE OC (GV-N5070EAGLE OC-12GD)",
+    "brand": "Gigabyte",
+    "seller": "ХОЛОДИЛЬНИК.ру Бережно доставит",
+    "rating": 0,
+    "price": 7889900
+  },
+  {
+    "name": "Видеокарта RTX 5070 12G PRIME WHITE OC, 12 ГБ GDDR7 UltraHD",
+    "brand": "Asus",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 16434000
+  },
+  {
+    "name": "Видеокарта PRIME GeForce RTX 5070 12 ГБ GDDR7 OC Edition",
+    "brand": "Asus",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 16186000
+  },
+  {
+    "name": "Видеокарта 5070 RTX 12ГБ GDDR7 GV-N5070AERO AERO игровая пк",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 9763000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G INSPIRE 3X OC)",
+    "brand": "MSI",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 8499800
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M17-M0NA00)",
+    "brand": "Asus",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 7289300
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070WF3-12GD)",
+    "brand": "Gigabyte",
+    "seller": "Gigabyte Official Store",
+    "rating": 5,
+    "price": 7785700
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (NE75070019K9-GB2050A)",
+    "brand": "Palit",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 7639300
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070AORUS M-12GD)",
+    "brand": "Gigabyte",
+    "seller": "Gigabyte Official Store",
+    "rating": 5,
+    "price": 9725000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 TWIN X2 OC White",
+    "brand": "Inno3D",
+    "seller": "PC City",
+    "rating": 5,
+    "price": 7416000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 12G INSPIRE 3X OC",
+    "brand": "MSI",
+    "seller": "Getsy",
+    "rating": 0,
+    "price": 15630000
+  },
+  {
+    "name": "Видеокарта PCI-E TUF-RTX5070-O12G-GAMING NV RTX5070 12Gb",
+    "brand": "Asus",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 9348000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (NE75070T19K9-GB2050A)",
+    "brand": "Palit",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 7691700
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M10-M0NA00)",
+    "brand": "Asus",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 8013700
+  },
+  {
+    "name": "GeForce RTX 5070 GamingPro 12 Гб Видеокарта",
+    "brand": "Palit",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 8835000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16 ГБ GAMINGPRO NE7507T019T2-GB2031Y",
+    "brand": "Palit",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 10623100
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16G SHADOW 3X OC, 16 ГБ GDDR7 UltraHD",
+    "brand": "MSI",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 21472000
+  },
+  {
+    "name": "Видеокарта для ПК RTX 5070 12 ГБ RTL",
+    "brand": "Gigabyte",
+    "seller": "CPU HOME",
+    "rating": 0,
+    "price": 6968100
+  },
+  {
+    "name": "Видеокарта RTX 5070 12G PRIME WHITE OC, 12 ГБ GDDR7 UltraHD",
+    "brand": "Asus",
+    "seller": "Omni Market",
+    "rating": 0,
+    "price": 10320000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 GAMING OC",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 9572000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 SHADOW 3X",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 0,
+    "price": 8804000
+  },
+  {
+    "name": "GeForce RTX 5070 GAMING OC 12GB GDDR7 Видеокарта",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК",
+    "rating": 5,
+    "price": 9596000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (ZT-B50700FQ-10P)",
+    "brand": "ZOTAC",
+    "seller": "Modern Device",
+    "rating": 0,
+    "price": 8186500
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070GAMING OC-12GD)",
+    "brand": "Gigabyte",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 8103600
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070EAGLEOC ICE-12GD)",
+    "brand": "Gigabyte",
+    "seller": "Gigabyte Official Store",
+    "rating": 5,
+    "price": 8232300
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 WINDFORCE 12G",
+    "brand": "Gigabyte",
+    "seller": "Салонсвязи.ру",
+    "rating": 0,
+    "price": 8399000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M19-M0NA00)",
+    "brand": "Asus",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 8081400
+  },
+  {
+    "name": "GeForce RTX 5070 EAGLE OC SFF 12GB GDDR7 Видеокарта",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК",
+    "rating": 5,
+    "price": 8794000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 EAGLE OC SFF",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 9201000
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 12ГБ Gaming GDDR7 OC",
+    "brand": "Gigabyte",
+    "seller": "Smart Lemon",
+    "rating": 5,
+    "price": 10900000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 SHADOW 3X",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 8804000
+  },
+  {
+    "name": "Видеокарта RTX5070 12GB GAMING PRO-S 12GB, 12 ГБ GDDR7",
+    "brand": "Palit",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 14758000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 INSPIRE 3X OC",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 0,
+    "price": 9018000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 Eagle OC SFF 12G GDDR7",
+    "brand": "Gigabyte",
+    "seller": "IT-D",
+    "rating": 5,
+    "price": 8800000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (NE7507TS19T2-GB2031A)",
+    "brand": "Palit",
+    "seller": "Modern Device",
+    "rating": 0,
+    "price": 10419200
+  },
+  {
+    "name": "Видеокарта PCI-E 5.0 RTX 5070 12G VENTUS 3X OC NV RTX5070 12",
+    "brand": "MSI",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 8002000
+  },
+  {
+    "name": "Видеокарта PRIME-RTX5070-O12G",
+    "brand": "Asus",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 9166900
+  },
+  {
+    "name": "Видеокарта RTX5070 12GB RTX 5070 12G SHADOW 3X OC",
+    "brand": "MSI",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 8860500
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 Eagle OC ICE SFF 12GB",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 9274100
+  },
+  {
+    "name": "Видеокарта PCI-E 5.0 RTX 5070",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 12702000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G GAMING TRIO)",
+    "brand": "MSI",
+    "seller": "Modern Device",
+    "rating": 0,
+    "price": 8018000
+  },
+  {
+    "name": "GeForce RTX 5070 AERO OC 12GB GDDR7 Видеокарта",
+    "brand": "Gigabyte",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 8652000
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 OC",
+    "brand": "MSI",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 9272300
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 SOLID 12 Гб",
+    "brand": "ZOTAC",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 0,
+    "price": 7864800
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G SHADOW 2X)",
+    "brand": "MSI",
+    "seller": "Modern Device",
+    "rating": 0,
+    "price": 7735800
+  },
+  {
+    "name": "Видеокарта PCI-E RTX 5070",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК",
+    "rating": 5,
+    "price": 8466000
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 Windforce OC",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 8576200
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 Eagle OC SFF 12Gb_2540039",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 9008300
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 EAGLE OC SFF 12GB",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 8886000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (NE7507T019T2-GB2031A)",
+    "brand": "Palit",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 10267700
+  },
+  {
+    "name": "Видеокарта Prime GeForce RTX5070 White OC Edition 12GB GDDR7",
+    "brand": "Asus",
+    "seller": "IT-D",
+    "rating": 0,
+    "price": 8350000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 Gaming OC 12GB",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 9311500
+  },
+  {
+    "name": "Видеокарта RTX 5070 GAMING OC 12G, 12 Гб GDDR7 UltraHD",
+    "brand": "Gigabyte",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 16986000
+  },
+  {
+    "name": "Видеокарта RTX 5070 MASTER",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 10859000
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 Gaming 12Gb",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 8867400
+  },
+  {
+    "name": "Видеокарта PRIME GeForce RTX 5070 12 ГБ GDDR7 OC Edition",
+    "brand": "Asus",
+    "seller": "LEPRO",
+    "rating": 5,
+    "price": 14320500
+  },
+  {
+    "name": "GeForce RTX 5070 GamingPro OC 12 Гб Видеокарта",
+    "brand": "Palit",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 8910000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti WINDFORCE SFF 16G, 16 Гб GDDR7",
+    "brand": "Gigabyte",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 21108000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 GamingPro (NE75070019K9-GB2050A)",
+    "brand": "Palit",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 15296000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070EAGLE OC-12GD)",
+    "brand": "Gigabyte",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 7754400
+  },
+  {
+    "name": "Видеокарта RTX 5070 12G VENTUS 2X OC DDR 7",
+    "brand": "MSI",
+    "seller": "КомпьютерМаркет",
+    "rating": 0,
+    "price": 7975500
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 TUF GAMING OC",
+    "brand": "Asus",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 5,
+    "price": 10702000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 Ti Battle AX 16GB-V",
+    "brand": "Colorful",
+    "seller": "Colorful",
+    "rating": 5,
+    "price": 11615400
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070 Windforce OC SFF 12Gb",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 8836500
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (GV-N507TAERO OC-16GD)",
+    "brand": "Gigabyte",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 11932800
+  },
+  {
+    "name": "GeForce RTX 5070 Ti WINDFORCE OC SFF 16GB GDDR7 Видеокарта",
+    "brand": "Gigabyte",
+    "seller": "Позитроника",
+    "rating": 5,
+    "price": 10739000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 VENTUS 3X",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 8215800
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 GAMING OC",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 9572000
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 GAMING TRIO",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 9329000
+  },
+  {
+    "name": "Видеокарта TUF-RTX5070-O12G-GAMING",
+    "brand": "Asus",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 9756900
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 12G SHADOW 3X OC",
+    "brand": "MSI",
+    "seller": "Getsy",
+    "rating": 0,
+    "price": 15470000
+  },
+  {
+    "name": "Видеокарта RTX 5070 TWIN EDGE OC 12GB (ZT-B50700H-10P)",
+    "brand": "ZOTAC",
+    "seller": "ХОЛОДИЛЬНИК.ру",
+    "rating": 5,
+    "price": 9289900
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 Twin Edge OC",
+    "brand": "ZOTAC",
+    "seller": "PC City",
+    "rating": 5,
+    "price": 7379900
+  },
+  {
+    "name": "Видеокарта PCI-E PRIME-RTX5070-O12G NV RTX5070 12Gb 192bit",
+    "brand": "Asus",
+    "seller": "СИТИЛИНК",
+    "rating": 0,
+    "price": 9196000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Infinity 3 OC 12Gb NE75070S19K9-GB2050S",
+    "brand": "Palit",
+    "seller": "Smart Lemon",
+    "rating": 5,
+    "price": 9999900
+  },
+  {
+    "name": "Видеокарта Dual GeForce RTX 5070 12GB GDDR7 OC Edition",
+    "brand": "Asus",
+    "seller": "IT-D",
+    "rating": 0,
+    "price": 7900000
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 5070TI 16ГБ Windforce",
+    "brand": "Gigabyte",
+    "seller": "SokolStore",
+    "rating": 0,
+    "price": 21998000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (ZT-B50700E-10P)",
+    "brand": "ZOTAC",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 7596400
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070AERO OC-12GD)",
+    "brand": "Gigabyte",
+    "seller": "Gigabyte Official Store",
+    "rating": 5,
+    "price": 9096500
+  },
+  {
+    "name": "Видеокарта PCI-E GeForce RTX 5070 GAMING PRO S",
+    "brand": "Palit",
+    "seller": "xcom-shop",
+    "rating": 0,
+    "price": 9114200
+  },
+  {
+    "name": "Видеокарта PCI-E RTX 5070",
+    "brand": "MSI",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 0,
+    "price": 8679000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (GV-N507TGAMING OC-16GD)",
+    "brand": "Gigabyte",
+    "seller": "Gigabyte Official Store",
+    "rating": 5,
+    "price": 11643500
+  },
+  {
+    "name": "Видеокарты GeForce RTX 5070 12G GAMING TRIO OC, 12G GDDR",
+    "brand": "MSI",
+    "seller": "LEPRO",
+    "rating": 0,
+    "price": 14708000
+  },
+  {
+    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M80-M0NA00)",
+    "brand": "Asus",
+    "seller": "Modern Device",
+    "rating": 0,
+    "price": 9596100
+  },
+  {
+    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 EAGLE OC",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 9255000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (GV-N507TEAGLE OC-16GD)",
+    "brand": "Gigabyte",
+    "seller": "Modern Device",
+    "rating": 5,
+    "price": 11346500
+  },
+  {
+    "name": "Видеокарта RTX 5070 GamingPro OC (NE75070T19K9-GB2050A)",
+    "brand": "Palit",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 15512000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 5070 12G INSPIRE 3X OC",
+    "brand": "MSI",
+    "seller": "Omni Market",
+    "rating": 0,
+    "price": 9815000
+  },
+  {
+    "name": "Видеокарта RTX 5070 Ti EAGLE OC SFF 16G, 16 Гб GDDR7",
+    "brand": "Gigabyte",
+    "seller": "Getsy",
+    "rating": 5,
+    "price": 21764000
+  }
+]
