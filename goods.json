@@ -1,702 +1,702 @@
 [
   {
-    "name": "Видеокарта GeForce RTX 5070 12G SHADOW 3X",
-    "brand": "MSI",
-    "seller": "Getsy",
+    "name": "PCI-E 4.0 GV-N4060OC-8GL NV RTX4060 8Gb",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Доставка",
     "rating": 5,
-    "price": 15332000
+    "price": 5578000
   },
   {
-    "name": "GeForce RTX 5070 GAMING OC 12GB GDDR7 Видеокарта",
-    "brand": "Gigabyte",
+    "name": "Видеокарта GeForce RTX 4060 Ti VENTUS 2X BLACK 8ГБ OC",
+    "brand": "MSI",
+    "seller": "VoltMart",
+    "rating": 5,
+    "price": 11080000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti VENTUS 2X BLACK 8ГБ OC",
+    "brand": "MSI",
+    "seller": "HomeEcho",
+    "rating": 5,
+    "price": 5099200
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8GB PA-RTX4060 DUAL 8GB",
+    "brand": "palit",
+    "seller": "MILND GROUP",
+    "rating": 0,
+    "price": 4466700
+  },
+  {
+    "name": "Asus DUAL RTX4060 O8G EVO WHITE",
+    "brand": "",
+    "seller": "Скорость ПК",
+    "rating": 0,
+    "price": 5179900
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 ProArt OC",
+    "brand": "Asus",
+    "seller": "LEPRO",
+    "rating": 0,
+    "price": 7562500
+  },
+  {
+    "name": "Видеокарта RTX4060 STORMX 8ГБ",
+    "brand": "palit",
     "seller": "Позитроника",
     "rating": 5,
-    "price": 8483000
+    "price": 4620000
   },
   {
-    "name": "Видеокарта iGame GeForce RTX 5070 Ultra W OC 12GB-V",
-    "brand": "Colorful",
-    "seller": "Colorful",
+    "name": "Видеокарта NVIDIA GeForce RTX 4060 8Gb_2445012",
+    "brand": "Gigabyte",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 5297500
+  },
+  {
+    "name": "RTX 4060 VENTUS 2X WHITE 8G OC Графический процессор GDDR6",
+    "brand": "MSI",
+    "seller": "Скорость ПК",
+    "rating": 0,
+    "price": 4956300
+  },
+  {
+    "name": "DUAL RTX4060 O8G V2 Видеокарта RTX 4060",
+    "brand": "Asus",
+    "seller": "Компьютерный DIY",
+    "rating": 0,
+    "price": 4770000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 GAMING X 8G 8 ГБ",
+    "brand": "MSI",
+    "seller": "TuriStore.ru",
+    "rating": 0,
+    "price": 6054600
+  },
+  {
+    "name": "Видеокарта GF RTX 4060 Ti Dual 8GB (NE6406T019P1-1060D)",
+    "brand": "palit",
+    "seller": "Эльдорадо",
+    "rating": 0,
+    "price": 5719900
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 RTX4060-O8G-LP-BRK NV RTX4060 8Gb",
+    "brand": "Asus",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 4882000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti 8 Гб",
+    "brand": "Asus",
+    "seller": "LEPRO",
     "rating": 5,
+    "price": 8756000
+  },
+  {
+    "name": "Игровая видеокарта RTX 4060 8gb без HDMI",
+    "brand": "Asus",
+    "seller": "PC Market",
+    "rating": 5,
+    "price": 3800000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 GAMING X 8G",
+    "brand": "MSI",
+    "seller": "Myriad Market",
+    "rating": 0,
+    "price": 6054600
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060TI 8G VENTUS 2X BLACK E1 OC, 8G",
+    "brand": "MSI",
+    "seller": "TerraBit",
+    "rating": 0,
+    "price": 6722500
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8 Гб",
+    "brand": "Asus",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 6535000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti VENTUS 2X BLACK 8ГБ OC",
+    "brand": "MSI",
+    "seller": "VoltMart",
+    "rating": 5,
+    "price": 11080000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti 8 Гб",
+    "brand": "palit",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 8590000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8 Гб",
+    "brand": "Gigabyte",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 7222000
+  },
+  {
+    "name": "Видеокарта PCI-E GeForce RTX 4060 VENTUS 2X BLACK OC",
+    "brand": "MSI",
+    "seller": "xcom-shop",
+    "rating": 0,
+    "price": 4885700
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 GAMING X 8G",
+    "brand": "MSI",
+    "seller": "Myriad Market - Мириады товаров по выгодным ценам!",
+    "rating": 0,
+    "price": 6114800
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8 Гб",
+    "brand": "Asus",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 6680000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 INFINITY 2 8 ГБ",
+    "brand": "palit",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 12105300
+  },
+  {
+    "name": "Видеокарта игровая RTX 4060 VENTUS 2X",
+    "brand": "",
+    "seller": "AOCTHK",
+    "rating": 0,
     "price": 9292300
   },
   {
-    "name": "GeForce RTX 5070 EAGLE OC SFF 12GB GDDR7 Видеокарта",
-    "brand": "Gigabyte",
-    "seller": "Позитроника",
-    "rating": 5,
-    "price": 8105000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 12G VENTUS 2X, 12 ГБ GDDR7",
+    "name": "Видеокарта GeForce RTX 4060 Ti VENTUS 2X BLACK 8ГБ OC",
     "brand": "MSI",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 15226000
+    "seller": "Tech & Surf",
+    "rating": 0,
+    "price": 5488300
   },
   {
-    "name": "Видеокарта RTX 5070 WINDFORCE SFF 12G, 12 Гб GDDR7 UltraHD",
-    "brand": "Gigabyte",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 16026000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0LZ0-M0NA00)",
-    "brand": "Asus",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 8887900
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G SHADOW 2X OC)",
+    "name": "Видеокарта GeForce RTX 4060 Ti VENTUS 2X BLACK 8ГБ OC",
     "brand": "MSI",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 7254700
+    "seller": "Top electronic devices",
+    "rating": 0,
+    "price": 5738000
   },
   {
-    "name": "Видеокарта GeForce RTX 5070 12G VENTUS 2X OC",
-    "brand": "MSI",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 15156000
-  },
-  {
-    "name": "Видеокарта PCI-E 5.0 PA-RTX5070 GAMINGPRO-S OC NV RTX5070",
-    "brand": "Palit",
-    "seller": "Позитроника",
-    "rating": 5,
-    "price": 7959000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 NB EX 12GB-V",
-    "brand": "Colorful",
-    "seller": "Colorful",
-    "rating": 5,
-    "price": 8711600
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 EAGLE OC (GV-N5070EAGLE OC-12GD)",
+    "name": "Видеокарта NVIDIA GeForce RTX 4060",
     "brand": "Gigabyte",
-    "seller": "ХОЛОДИЛЬНИК.ру Бережно доставит",
+    "seller": "LuminaKorp",
     "rating": 0,
-    "price": 7889900
+    "price": 5600000
   },
   {
-    "name": "Видеокарта RTX 5070 12G PRIME WHITE OC, 12 ГБ GDDR7 UltraHD",
-    "brand": "Asus",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 16434000
-  },
-  {
-    "name": "Видеокарта PRIME GeForce RTX 5070 12 ГБ GDDR7 OC Edition",
-    "brand": "Asus",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 16186000
-  },
-  {
-    "name": "Видеокарта 5070 RTX 12ГБ GDDR7 GV-N5070AERO AERO игровая пк",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 9763000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G INSPIRE 3X OC)",
-    "brand": "MSI",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 8499800
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M17-M0NA00)",
-    "brand": "Asus",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 7289300
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070WF3-12GD)",
-    "brand": "Gigabyte",
-    "seller": "Gigabyte Official Store",
-    "rating": 5,
-    "price": 7785700
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (NE75070019K9-GB2050A)",
-    "brand": "Palit",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 7639300
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070AORUS M-12GD)",
-    "brand": "Gigabyte",
-    "seller": "Gigabyte Official Store",
-    "rating": 5,
-    "price": 9725000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 TWIN X2 OC White",
-    "brand": "Inno3D",
-    "seller": "PC City",
-    "rating": 5,
-    "price": 7416000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 12G INSPIRE 3X OC",
-    "brand": "MSI",
-    "seller": "Getsy",
-    "rating": 0,
-    "price": 15630000
-  },
-  {
-    "name": "Видеокарта PCI-E TUF-RTX5070-O12G-GAMING NV RTX5070 12Gb",
-    "brand": "Asus",
-    "seller": "Позитроника",
-    "rating": 5,
-    "price": 9348000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (NE75070T19K9-GB2050A)",
-    "brand": "Palit",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 7691700
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M10-M0NA00)",
-    "brand": "Asus",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 8013700
-  },
-  {
-    "name": "GeForce RTX 5070 GamingPro 12 Гб Видеокарта",
-    "brand": "Palit",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 8835000
-  },
-  {
-    "name": "Видеокарта RTX 5070 Ti 16 ГБ GAMINGPRO NE7507T019T2-GB2031Y",
-    "brand": "Palit",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 10623100
-  },
-  {
-    "name": "Видеокарта RTX 5070 Ti 16G SHADOW 3X OC, 16 ГБ GDDR7 UltraHD",
-    "brand": "MSI",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 21472000
-  },
-  {
-    "name": "Видеокарта для ПК RTX 5070 12 ГБ RTL",
-    "brand": "Gigabyte",
-    "seller": "CPU HOME",
-    "rating": 0,
-    "price": 6968100
-  },
-  {
-    "name": "Видеокарта RTX 5070 12G PRIME WHITE OC, 12 ГБ GDDR7 UltraHD",
-    "brand": "Asus",
-    "seller": "Omni Market",
-    "rating": 0,
-    "price": 10320000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 GAMING OC",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 9572000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 SHADOW 3X",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 0,
-    "price": 8804000
-  },
-  {
-    "name": "GeForce RTX 5070 GAMING OC 12GB GDDR7 Видеокарта",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК",
-    "rating": 5,
-    "price": 9596000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (ZT-B50700FQ-10P)",
-    "brand": "ZOTAC",
-    "seller": "Modern Device",
-    "rating": 0,
-    "price": 8186500
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070GAMING OC-12GD)",
-    "brand": "Gigabyte",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 8103600
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070EAGLEOC ICE-12GD)",
-    "brand": "Gigabyte",
-    "seller": "Gigabyte Official Store",
-    "rating": 5,
-    "price": 8232300
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 WINDFORCE 12G",
-    "brand": "Gigabyte",
-    "seller": "Салонсвязи.ру",
-    "rating": 0,
-    "price": 8399000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M19-M0NA00)",
-    "brand": "Asus",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 8081400
-  },
-  {
-    "name": "GeForce RTX 5070 EAGLE OC SFF 12GB GDDR7 Видеокарта",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК",
-    "rating": 5,
-    "price": 8794000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 EAGLE OC SFF",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 9201000
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 12ГБ Gaming GDDR7 OC",
-    "brand": "Gigabyte",
-    "seller": "Smart Lemon",
-    "rating": 5,
-    "price": 10900000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 SHADOW 3X",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Самовывоз",
-    "rating": 0,
-    "price": 8804000
-  },
-  {
-    "name": "Видеокарта RTX5070 12GB GAMING PRO-S 12GB, 12 ГБ GDDR7",
-    "brand": "Palit",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 14758000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 INSPIRE 3X OC",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 0,
-    "price": 9018000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 Eagle OC SFF 12G GDDR7",
-    "brand": "Gigabyte",
-    "seller": "IT-D",
-    "rating": 5,
-    "price": 8800000
-  },
-  {
-    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (NE7507TS19T2-GB2031A)",
-    "brand": "Palit",
-    "seller": "Modern Device",
-    "rating": 0,
-    "price": 10419200
-  },
-  {
-    "name": "Видеокарта PCI-E 5.0 RTX 5070 12G VENTUS 3X OC NV RTX5070 12",
-    "brand": "MSI",
-    "seller": "Позитроника",
-    "rating": 5,
-    "price": 8002000
-  },
-  {
-    "name": "Видеокарта PRIME-RTX5070-O12G",
-    "brand": "Asus",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 9166900
-  },
-  {
-    "name": "Видеокарта RTX5070 12GB RTX 5070 12G SHADOW 3X OC",
-    "brand": "MSI",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 8860500
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 Eagle OC ICE SFF 12GB",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 9274100
-  },
-  {
-    "name": "Видеокарта PCI-E 5.0 RTX 5070",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 12702000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G GAMING TRIO)",
-    "brand": "MSI",
-    "seller": "Modern Device",
-    "rating": 0,
-    "price": 8018000
-  },
-  {
-    "name": "GeForce RTX 5070 AERO OC 12GB GDDR7 Видеокарта",
-    "brand": "Gigabyte",
-    "seller": "Позитроника",
-    "rating": 5,
-    "price": 8652000
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 OC",
-    "brand": "MSI",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 9272300
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 SOLID 12 Гб",
-    "brand": "ZOTAC",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 0,
-    "price": 7864800
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (RTX 5070 12G SHADOW 2X)",
-    "brand": "MSI",
-    "seller": "Modern Device",
-    "rating": 0,
-    "price": 7735800
-  },
-  {
-    "name": "Видеокарта PCI-E RTX 5070",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК",
-    "rating": 5,
-    "price": 8466000
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 Windforce OC",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 8576200
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 Eagle OC SFF 12Gb_2540039",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 9008300
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 EAGLE OC SFF 12GB",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 8886000
-  },
-  {
-    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (NE7507T019T2-GB2031A)",
-    "brand": "Palit",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 10267700
-  },
-  {
-    "name": "Видеокарта Prime GeForce RTX5070 White OC Edition 12GB GDDR7",
-    "brand": "Asus",
-    "seller": "IT-D",
-    "rating": 0,
-    "price": 8350000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 Gaming OC 12GB",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 9311500
-  },
-  {
-    "name": "Видеокарта RTX 5070 GAMING OC 12G, 12 Гб GDDR7 UltraHD",
-    "brand": "Gigabyte",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 16986000
-  },
-  {
-    "name": "Видеокарта RTX 5070 MASTER",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 10859000
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 Gaming 12Gb",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 8867400
-  },
-  {
-    "name": "Видеокарта PRIME GeForce RTX 5070 12 ГБ GDDR7 OC Edition",
-    "brand": "Asus",
-    "seller": "LEPRO",
-    "rating": 5,
-    "price": 14320500
-  },
-  {
-    "name": "GeForce RTX 5070 GamingPro OC 12 Гб Видеокарта",
-    "brand": "Palit",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 8910000
-  },
-  {
-    "name": "Видеокарта RTX 5070 Ti WINDFORCE SFF 16G, 16 Гб GDDR7",
-    "brand": "Gigabyte",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 21108000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 GamingPro (NE75070019K9-GB2050A)",
-    "brand": "Palit",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 15296000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070EAGLE OC-12GD)",
-    "brand": "Gigabyte",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 7754400
-  },
-  {
-    "name": "Видеокарта RTX 5070 12G VENTUS 2X OC DDR 7",
-    "brand": "MSI",
-    "seller": "КомпьютерМаркет",
-    "rating": 0,
-    "price": 7975500
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 TUF GAMING OC",
-    "brand": "Asus",
-    "seller": "СИТИЛИНК Доставка",
-    "rating": 5,
-    "price": 10702000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 Ti Battle AX 16GB-V",
-    "brand": "Colorful",
-    "seller": "Colorful",
-    "rating": 5,
-    "price": 11615400
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070 Windforce OC SFF 12Gb",
-    "brand": "Gigabyte",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 8836500
-  },
-  {
-    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (GV-N507TAERO OC-16GD)",
-    "brand": "Gigabyte",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 11932800
-  },
-  {
-    "name": "GeForce RTX 5070 Ti WINDFORCE OC SFF 16GB GDDR7 Видеокарта",
-    "brand": "Gigabyte",
-    "seller": "Позитроника",
-    "rating": 5,
-    "price": 10739000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 VENTUS 3X",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Самовывоз",
-    "rating": 0,
-    "price": 8215800
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 GAMING OC",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК Самовывоз",
-    "rating": 0,
-    "price": 9572000
-  },
-  {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 GAMING TRIO",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Самовывоз",
-    "rating": 0,
-    "price": 9329000
-  },
-  {
-    "name": "Видеокарта TUF-RTX5070-O12G-GAMING",
-    "brand": "Asus",
-    "seller": "RTK",
-    "rating": 0,
-    "price": 9756900
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 12G SHADOW 3X OC",
-    "brand": "MSI",
-    "seller": "Getsy",
-    "rating": 0,
-    "price": 15470000
-  },
-  {
-    "name": "Видеокарта RTX 5070 TWIN EDGE OC 12GB (ZT-B50700H-10P)",
-    "brand": "ZOTAC",
-    "seller": "ХОЛОДИЛЬНИК.ру",
-    "rating": 5,
-    "price": 9289900
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 Twin Edge OC",
-    "brand": "ZOTAC",
-    "seller": "PC City",
-    "rating": 5,
-    "price": 7379900
-  },
-  {
-    "name": "Видеокарта PCI-E PRIME-RTX5070-O12G NV RTX5070 12Gb 192bit",
-    "brand": "Asus",
-    "seller": "СИТИЛИНК",
-    "rating": 0,
-    "price": 9196000
-  },
-  {
-    "name": "Видеокарта RTX 5070 Infinity 3 OC 12Gb NE75070S19K9-GB2050S",
-    "brand": "Palit",
-    "seller": "Smart Lemon",
-    "rating": 5,
-    "price": 9999900
-  },
-  {
-    "name": "Видеокарта Dual GeForce RTX 5070 12GB GDDR7 OC Edition",
-    "brand": "Asus",
-    "seller": "IT-D",
-    "rating": 0,
-    "price": 7900000
-  },
-  {
-    "name": "Видеокарта NVIDIA GeForce RTX 5070TI 16ГБ Windforce",
-    "brand": "Gigabyte",
-    "seller": "SokolStore",
-    "rating": 0,
-    "price": 21998000
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (ZT-B50700E-10P)",
-    "brand": "ZOTAC",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 7596400
-  },
-  {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (GV-N5070AERO OC-12GD)",
-    "brand": "Gigabyte",
-    "seller": "Gigabyte Official Store",
-    "rating": 5,
-    "price": 9096500
-  },
-  {
-    "name": "Видеокарта PCI-E GeForce RTX 5070 GAMING PRO S",
-    "brand": "Palit",
+    "name": "Видеокарта PCI-E GeForce RTX 4060 Dual OC",
+    "brand": "palit",
     "seller": "xcom-shop",
     "rating": 0,
-    "price": 9114200
+    "price": 5003100
   },
   {
-    "name": "Видеокарта PCI-E RTX 5070",
-    "brand": "MSI",
-    "seller": "СИТИЛИНК Доставка",
+    "name": "Видеокарта GeForce RTX 4060 Ti 8 Гб",
+    "brand": "Asus",
+    "seller": "Betechno",
     "rating": 0,
-    "price": 8679000
+    "price": 8515000
   },
   {
-    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (GV-N507TGAMING OC-16GD)",
-    "brand": "Gigabyte",
-    "seller": "Gigabyte Official Store",
-    "rating": 5,
-    "price": 11643500
+    "name": "Видеокарта GeForce RTX 4060 VERTO 8 ГБ VCG40608DFXPB1",
+    "brand": "PNY",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 12653300
   },
   {
-    "name": "Видеокарты GeForce RTX 5070 12G GAMING TRIO OC, 12G GDDR",
+    "name": "Видеокарта PCI-E GeForce RTX 4060 Infinity 2",
+    "brand": "palit",
+    "seller": "xcom-shop",
+    "rating": 0,
+    "price": 4848800
+  },
+  {
+    "name": "Видеокарта GeForce RTX4060 DUAL OC (8Гб, GDDR6,128bit",
+    "brand": "palit",
+    "seller": "Авелот",
+    "rating": 0,
+    "price": 4524600
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC",
     "brand": "MSI",
     "seller": "LEPRO",
     "rating": 0,
-    "price": 14708000
+    "price": 8368500
   },
   {
-    "name": "Видеокарта RTX 5070 12 ГБ RTL (90YV0M80-M0NA00)",
+    "name": "Видеокарта GeForce RTX 4060 Ti Dual",
+    "brand": "palit",
+    "seller": "LEPRO",
+    "rating": 5,
+    "price": 8306500
+  },
+  {
+    "name": "Видеокарта GeForce RTX4060 TI TWIN X2 8Gb GDDR6",
+    "brand": "Inno3D",
+    "seller": "LEPRO",
+    "rating": 0,
+    "price": 8058500
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti WINDFORCE OC 8 ГБ",
+    "brand": "Gigabyte",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 16906300
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 DUAL OC 8 ГБ",
+    "brand": "palit",
+    "seller": "ProStore by Lubivaya",
+    "rating": 0,
+    "price": 5099000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti 8 Гб",
+    "brand": "Asus",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 8114000
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 4060TI 8Gb",
+    "brand": "Asus",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 5964400
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti StormX 8Gb",
+    "brand": "palit",
+    "seller": "ЭлМир",
+    "rating": 0,
+    "price": 5602600
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 DUAL-RTX4060TI-O8G-EVO NV RTX4060TI 8Gb",
+    "brand": "Asus",
+    "seller": "СИТИЛИНК Самовывоз",
+    "rating": 0,
+    "price": 5519900
+  },
+  {
+    "name": "Видеокарта GF RTX 4060 Ti Dual 8GB (NE6406T019P1-1060D)",
+    "brand": "palit",
+    "seller": "М.Видео",
+    "rating": 5,
+    "price": 5719900
+  },
+  {
+    "name": "Видеокарта NVIDIA GeForce RTX 4060 Ti Ventus OC 8Gb",
+    "brand": "MSI",
+    "seller": "RTK",
+    "rating": 0,
+    "price": 5324100
+  },
+  {
+    "name": "R5 5500 RTX 4060 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 20073100
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti Dual 8 ГБ",
+    "brand": "Asus",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 16692200
+  },
+  {
+    "name": "R5 5500 RTX 4060 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 20073100
+  },
+  {
+    "name": "Игровой компьютер RTX 4060 i5-12400f 1TB NVME",
+    "brand": "Intel",
+    "seller": "ЖЕЛЕЗО",
+    "rating": 5,
+    "price": 22145000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8Gb (GV N4060D6 8GL)",
+    "brand": "Gigabyte",
+    "seller": "КотоФото",
+    "rating": 0,
+    "price": 5847100
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 INFINITY 2 OC 8 ГБ",
+    "brand": "palit",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 11247300
+  },
+  {
+    "name": "Видеокарта Dual GeForce RTX 4060 V2 OC Edition 8GB GDDR6",
+    "brand": "Asus",
+    "seller": "ЭлМир",
+    "rating": 0,
+    "price": 4400000
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 GV-N4060D6-8GL NV RTX4060 8Gb",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 0,
+    "price": 5369300
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8Gb (GV N4060D6 8GL)",
+    "brand": "Gigabyte",
+    "seller": "КотоФото",
+    "rating": 0,
+    "price": 5847100
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 STORMX 8GB (NE64060019P1-1070F)",
+    "brand": "palit",
+    "seller": "ХОЛОДИЛЬНИК.ру Бережно доставит",
+    "rating": 0,
+    "price": 4059900
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 DUAL OC V2 8G 8 ГБ",
+    "brand": "Asus",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 11598900
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti Dual 8 ГБ NE6406T019P1-1060D",
+    "brand": "palit",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 18839500
+  },
+  {
+    "name": "Видеокарта Dual GeForce RTX 4060 V2 OC Edition 8GB GDDR6",
+    "brand": "Asus",
+    "seller": "IT-D",
+    "rating": 0,
+    "price": 4593600
+  },
+  {
+    "name": "R5 5500 RTX 4060 8G D4 32G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 19452800
+  },
+  {
+    "name": "R5 5600 RTX 4060 8G D4 32G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 20203500
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060TI 8Gb",
+    "brand": "MSI",
+    "seller": "Азбука Скидок Новосибирск",
+    "rating": 0,
+    "price": 8110500
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 Ti 8 Гб",
+    "brand": "MSI",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 7325000
+  },
+  {
+    "name": "R5 3600 RTX 4060 Ti 8G D4 16G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 21411300
+  },
+  {
+    "name": "PCI-E 4.0 GV-N4060GAMING OC-8GD NV RTX40",
+    "brand": "Gigabyte",
+    "seller": "СИТИЛИНК Доставка",
+    "rating": 0,
+    "price": 5083000
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8Gb (GV N4060D6 8GL)",
+    "brand": "Gigabyte",
+    "seller": "КотоФото",
+    "rating": 0,
+    "price": 5847100
+  },
+  {
+    "name": "R5 3600 RTX 4060 8G D4 16G SSD 256G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 17755700
+  },
+  {
+    "name": "R5 3600 RTX 4060 Ti 8G D4 16G SSD 256G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 21019500
+  },
+  {
+    "name": "R5 5600 RTX 4060 Ti 8G D4 32G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 23467500
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 8 Гб",
+    "brand": "Gigabyte",
+    "seller": "Betechno",
+    "rating": 0,
+    "price": 6980000
+  },
+  {
+    "name": "U5 245KF RTX 4060 Ti 8GB D5 32GB SSD 2TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 36115100
+  },
+  {
+    "name": "R5 5500 RTX 4060 Ti 8G D4 32G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 22716800
+  },
+  {
+    "name": "Видеокарта Dual GeForce RTX 4060 EVO OC Edition 8GB GDDR6",
+    "brand": "Asus",
+    "seller": "IT-D",
+    "rating": 0,
+    "price": 4539800
+  },
+  {
+    "name": "RTX 4060 X2W 8GB DDR6 Премиум Видеокарта",
+    "brand": "AX",
+    "seller": "джинледу графических карт и памяти",
+    "rating": 0,
+    "price": 3484600
+  },
+  {
+    "name": "R5 5500 RTX 4060 Ti 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 23336800
+  },
+  {
+    "name": "R5 5500 RTX 4060 8G D4 16G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 18930600
+  },
+  {
+    "name": "R5 5600 RTX 4060 Ti 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 24087500
+  },
+  {
+    "name": "Видеокарта Dual GeForce RTX 4060 Ti Evo OC Edition 8GB GDDR6",
+    "brand": "Asus",
+    "seller": "ЭлМир",
+    "rating": 0,
+    "price": 5700000
+  },
+  {
+    "name": "Игровой компьютер RTX 4060 i5-12400f 32GB 1TB",
+    "brand": "Intel",
+    "seller": "ЖЕЛЕЗО",
+    "rating": 5,
+    "price": 22145000
+  },
+  {
+    "name": "R5 3600 RTX 4060 8G D4 16G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 18147300
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060 VENTUS 2X WHITE OC 8 ГБ",
+    "brand": "MSI",
+    "seller": "EPYX",
+    "rating": 0,
+    "price": 11598900
+  },
+  {
+    "name": "R5 3600 RTX 4060 8G D4 16G SSD 256G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 17755700
+  },
+  {
+    "name": "Видеокарта RTX 4060 Ti 8ГБ (90YV0J49-M0NA00)",
     "brand": "Asus",
     "seller": "Modern Device",
     "rating": 0,
-    "price": 9596100
+    "price": 5607400
   },
   {
-    "name": "Видеокарта для пк RTX 5070 12ГБ GDDR7 EAGLE OC",
-    "brand": "Gigabyte",
-    "seller": "СИТИЛИНК Самовывоз",
+    "name": "Видеокарта GeForce RTX4060Ti OC DUAL-RTX4060TI-O8G-EVO",
+    "brand": "Asus",
+    "seller": "TerraBit",
     "rating": 0,
-    "price": 9255000
+    "price": 7042600
   },
   {
-    "name": "Видеокарта RTX 5070 Ti 16 ГБ RTL (GV-N507TEAGLE OC-16GD)",
+    "name": "Видеокарта PCI-E 4.0 GV-N4060D6-8GL NVIDIA GeForce RTX 4060",
     "brand": "Gigabyte",
-    "seller": "Modern Device",
-    "rating": 5,
-    "price": 11346500
-  },
-  {
-    "name": "Видеокарта RTX 5070 GamingPro OC (NE75070T19K9-GB2050A)",
-    "brand": "Palit",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 15512000
-  },
-  {
-    "name": "Видеокарта GeForce RTX 5070 12G INSPIRE 3X OC",
-    "brand": "MSI",
-    "seller": "Omni Market",
+    "seller": "1A+Фирменный Магазин",
     "rating": 0,
-    "price": 9815000
+    "price": 43173400
   },
   {
-    "name": "Видеокарта RTX 5070 Ti EAGLE OC SFF 16G, 16 Гб GDDR7",
+    "name": "R5 5600 RTX 4060 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 20823700
+  },
+  {
+    "name": "Видеокарта GeForce RTX 4060TI 8Gb (DUAL RTX4060TI O8G EVO)",
+    "brand": "Asus",
+    "seller": "КотоФото",
+    "rating": 0,
+    "price": 6571200
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 DUAL-RTX4060TI-O8G-EVO NVIDIA GeForce",
+    "brand": "Asus",
+    "seller": "1й МИР Электроники",
+    "rating": 0,
+    "price": 36150800
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 DUAL-RTX4060TI-O8G-EVO NVIDIA GeForce",
+    "brand": "Asus",
+    "seller": "1й ТехноСити",
+    "rating": 0,
+    "price": 29281300
+  },
+  {
+    "name": "R5 5600 RTX 4060 Ti 8G D4 32G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 23467500
+  },
+  {
+    "name": "R5 5600 RTX 4060 Ti 8G D4 16G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 22945300
+  },
+  {
+    "name": "R5 5500 RTX 4060 Ti 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 23336800
+  },
+  {
+    "name": "R5 5500 RTX 4060 Ti 8G D4 16G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 22194600
+  },
+  {
+    "name": "R5 5600 RTX 4060 Ti 8G D4 32G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 24087500
+  },
+  {
+    "name": "R5 9600X RTX 4060 Ti 8GB D5 32GB SSD 2TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 33781300
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 GV-N4060D6-8GL NVIDIA GeForce RTX 4060",
     "brand": "Gigabyte",
-    "seller": "Getsy",
-    "rating": 5,
-    "price": 21764000
+    "seller": "1й ТехноСити",
+    "rating": 0,
+    "price": 25557800
+  },
+  {
+    "name": "R5 5500 RTX 4060 8G D4 32G SSD 512G",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 19452800
+  },
+  {
+    "name": "Видеокарта PCI-E 4.0 DUAL-RTX4060TI-O8G-EVO NV RTX4060TI 8Gb",
+    "brand": "Asus",
+    "seller": "СИТИЛИНК",
+    "rating": 0,
+    "price": 5445000
+  },
+  {
+    "name": "R5 7600X3D RTX 4060 Ti 8GB D5 64GB SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 37469500
+  },
+  {
+    "name": "R5 5500 RTX 4060 Ti 8G D4 16G SSD 1TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 22194600
+  },
+  {
+    "name": "R5 5600X RTX 4060 Ti 8GB D4 32GB SSD 2TB",
+    "brand": "KING KOMP",
+    "seller": "KING KOMP",
+    "rating": 0,
+    "price": 26927300
   }
 ]

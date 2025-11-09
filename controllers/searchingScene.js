@@ -16,6 +16,8 @@ searchingScene.enter((ctx) => {
 
 searchingScene.on("message", async (ctx) => {
   const searchWord = getUserInput(ctx);
+  ctx.session.currentSearchWord = searchWord;
+
   if (!searchWord) {
     ctx.reply("Ты ничего не ввел, пидор. Попробуй еще раз.");
     ctx.scene.reenter();
@@ -39,7 +41,12 @@ searchingScene.on("message", async (ctx) => {
     }
 
     const categoryList = firstFilter.items.map((item) => {
-      return Markup.button.callback(item.name, item.id.toString());
+      console.log(item.name, `select_category:${item.id.toString()}`);
+
+      return Markup.button.callback(
+        item.name,
+        `select_category:${item.id.toString()}`
+      );
     });
 
     const allVariantsButton = Markup.button.callback(
@@ -58,64 +65,6 @@ searchingScene.on("message", async (ctx) => {
     } else {
       ctx.reply("Не удалось найти подходящие категории для фильтрации.");
     }
-
-    ctx.reply(`Ок, сейчас пороюсь на ВБшечке, а потом в твоей жопе)
-ЖДИ, ХУЛЕ...`);
-
-    const response = await getGoods(searchWord, "catalog");
-
-    if (!response || !currentCategories) {
-      ctx.reply("Ошибка при запросе к WBшечке. Попробуй позже.");
-      ctx.scene.leave();
-      return;
-    }
-
-    if (response.status == 429 || currentCategories.status == 429) {
-      ctx.reply("Заебал, слишком много запросов, WBшечка сдохла, дай подышать");
-      ctx.scene.leave();
-      return;
-    }
-
-    if (!response.data.data || !response.data.data.products) {
-      ctx.reply("Не удалось получить данные с WBшечки.");
-      ctx.scene.leave();
-      return;
-    }
-
-    const formatResponse = await createDocument(
-      response.data.products,
-      filePath
-    );
-
-    if (formatResponse.length === 0) {
-      ctx.reply(
-        `По запросу "${searchWord}" ничего не нашел на ВБшечке. Попробуй еще раз, может, я просто слепой долбоеб.`
-      );
-      ctx.scene.leave();
-      return;
-    } else {
-      console.log("закончил");
-      try {
-        const fileContent = await fs.readFile(filePath, "utf-8");
-
-        await ctx.sendDocument(
-          {
-            source: Buffer.from(fileContent),
-            filename: "goods.json",
-          },
-          {
-            caption: "Вот список товаров в формате JSON!",
-          }
-        );
-
-        console.log("отправил документ");
-        ctx.scene.leave();
-      } catch (error) {
-        console.error("Ошибка при отправке документа:", error);
-        ctx.reply("Не удалось отправить документ.");
-        ctx.scene.leave();
-      }
-    }
   } catch (error) {
     ctx.reply(`Ну пиздец!
 Доволен!?
@@ -130,6 +79,95 @@ searchingScene.on("message", async (ctx) => {
   }
 });
 
-// searchingScene.on("callback_query", async (ctx) => {
+// Обработчик для нажатия на inline-кнопки (выбор категории)
+searchingScene.action(/^select_category:(\d+)$/, async (ctx) => {
+  const callbackData = ctx.callbackQuery.data;
+  const productId = ctx.match[1];
 
-// })
+  console.log(callbackData, "callbackData");
+  console.log(ctx.session.currentSearchWord, "context");
+
+  await ctx.answerCbQuery(`Вы выбрали продукт с ID: ${productId}`);
+  await ctx.reply(`Обрабатываем ваш выбор продукта с ID: ${productId}`);
+
+  ctx.reply(`Ок, сейчас пороюсь на ВБшечке, а потом в твоей жопе)
+ЖДИ, ХУЛЕ...`);
+
+  const response = await getGoods(
+    ctx.session.currentSearchWord,
+    "catalog",
+    productId
+  );
+
+  console.log(response.data, "Response data");
+
+  if (!response) {
+    ctx.reply("Ошибка при запросе к WBшечке. Попробуй позже.");
+    ctx.scene.leave();
+    return;
+  }
+
+  if (response.status == 429) {
+    ctx.reply("Заебал, слишком много запросов, WBшечка сдохла, дай подышать");
+    ctx.scene.leave();
+    return;
+  }
+
+  if (!response.data) {
+    ctx.reply("Не удалось получить данные с WBшечки.");
+    ctx.scene.leave();
+    return;
+  }
+
+  const formatResponse = await createDocument(response.data.products, filePath);
+
+  if (formatResponse.length === 0) {
+    ctx.reply(
+      `По запросу "${searchWord}" ничего не нашел на ВБшечке. Попробуй еще раз, может, я просто слепой долбоеб.`
+    );
+    ctx.scene.leave();
+    return;
+  } else {
+    console.log("закончил");
+    try {
+      const fileContent = await fs.readFile(filePath, "utf-8");
+
+      await ctx.sendDocument(
+        {
+          source: Buffer.from(fileContent),
+          filename: "goods.json",
+        },
+        {
+          caption: "Вот список товаров в формате JSON!",
+        }
+      );
+
+      console.log("отправил документ");
+      ctx.scene.leave();
+    } catch (error) {
+      console.error("Ошибка при отправке документа:", error);
+      ctx.reply("Не удалось отправить документ.");
+      ctx.scene.leave();
+    }
+  }
+
+  //   if (callbackData === "all_variants") {
+  //     // Пользователь выбрал "Все варианты", продолжаем без фильтра
+  //     selectedFilterId = null;
+  //     await ctx.reply("Ок, ищу без фильтров.");
+  //   } else if (callbackData.startsWith("category_")) {
+  //     // Пользователь выбрал категорию
+  //     selectedFilterId = callbackData.replace("category_", ""); // Извлекаем ID
+  //     const selectedCategoryName =
+  //       ctx.session.filters.find(
+  //         (filter) => filter.id.toString() === selectedFilterId
+  //       )?.name || "выбранную категорию";
+  //     await ctx.reply(
+  //       `Отлично! Ты выбрал: "${selectedCategoryName}". Ищу по ней...`
+  //     );
+  //   } else {
+  //     // Если что-то пошло не так
+  //     await ctx.reply("Неизвестный выбор. Попробуй еще раз.");
+  //     return;
+  //   }
+});

@@ -10,10 +10,10 @@ export const getGoods = async (
     console.log("начал запрос", searchWord, resFormat, page, filterId);
 
     const response = await axios.get(
-      "https://u-search.wb.ru/exactmatch/ru/common/v18/search",
+      "https://www.wildberries.ru/__internal/u-search/exactmatch/ru/common/v18/search",
       {
         params: {
-          ab_search_filter: "clothes_char",
+          ab_testing: "false",
           ab_testing: "false",
           appType: "1",
           curr: "rub",
